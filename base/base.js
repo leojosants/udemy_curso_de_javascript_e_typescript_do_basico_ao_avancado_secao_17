@@ -24,6 +24,8 @@ const files = [
 
 const html = '<p>Olá mundo</p> <p>Olá de novo</p> <div>Sou a div</div>';
 
+const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz ®¡ 0123456789 ¡';
+
 module.exports = {
-    text, files, html
+    text, files, html, alphabet
 };
