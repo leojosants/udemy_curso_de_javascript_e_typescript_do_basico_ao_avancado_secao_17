@@ -46,6 +46,11 @@ Os Ips são:
 
 `;
 
+const cpfs2 = `254.224.877-45
+215.978.456-12
+047.258.369-96
+963.987.32a.00`;
+
 module.exports = {
-    text, files, html, alphabet, cpfs, ips
+    text, files, html, alphabet, cpfs, ips,cpfs2
 };
