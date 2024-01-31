@@ -51,6 +51,12 @@ const cpfs2 = `254.224.877-45
 047.258.369-96
 963.987.32a.00`;
 
+const html2 = `<p 
+data-teste='teste' 
+class="teste teste">
+  Olá mundo
+</p> <p>Olá mundo</p> <div>Sou a div</div>`;
+
 module.exports = {
-    text, files, html, alphabet, cpfs, ips,cpfs2
+    text, files, html, alphabet, cpfs, ips, cpfs2, html2
 };
